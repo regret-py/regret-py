@@ -2,7 +2,7 @@
 
 # hey, c'est regret
 
-### *Digital Architect, Systems Builder & Full-Stack Developer*
+### *Systems discord bot Builder & ia Developer*
 
 [![Website](https://img.shields.io/badge/Website-mush.rip-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mush.rip)
 [![Status](https://img.shields.io/badge/Status-Building_High_Performance_Systems-emerald?style=for-the-badge&logo=codeforces&logoColor=white)]()
@@ -13,9 +13,9 @@
 
 ### 💻 À propos de moi
 
-* 🔭 Je conçois et développe des architectures logicielles performantes, des bots d'automatisation et des expériences web modernes.
-* 🚀 Actuellement focalisé sur l'optimisation de systèmes, le développement full-stack et l'expansion de mon projet **[mush.rip](https://mush.rip)**.
-* 🛠️ Passionné par l'ingénierie logicielle, l'automatisation matérielle et logicielle, ainsi que l'optimisation des performances bas niveau.
+* Je conçois et développe des architectures logicielles performantes, des bots d'automatisation discord et des expériences web modernes.
+* Actuellement focalisé sur l'optimisation de systèmes, le développement full-stack et l'expansion de mon projet **[mush.rip](https://mush.rip)**.
+* assionné par l'ingénierie logicielle, l'automatisation matérielle et logicielle, ainsi que l'optimisation des performances bas niveau.
 
 ---
 
