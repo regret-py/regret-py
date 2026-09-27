@@ -22,9 +22,6 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake placeholder" />
 
-> ⬆️ Une fois l'Action lancée (voir plus bas), remplace l'URL ci-dessus par la tienne :
-> `https://raw.githubusercontent.com/regret-py/regret-py/output/github-contribution-grid-snake-dark.svg`
-
 ---
 
 <div align="center">
