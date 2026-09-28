@@ -1,72 +1,58 @@
-<div align="center">
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f1b3a,100:6d5dfc&text=Regret&fontColor=e6edf3&fontSize=60&fontAlignY=38&desc=Epitech%20Paris%20%E2%80%94%20PGE%201%C3%A8re%20ann%C3%A9e&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Regret&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=1re%20annee%20PGE%20-%20Epitech%20Paris&descAlignY=54&descSize=18" width="100%"/>
+<div align="center">
 
 <a href="https://regret.info">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=560&lines=Etudiant+developpeur+%40+Epitech;J'apprends%2C+je+construis%2C+je+casse;Python+%7C+C+%7C+Web+%7C+Linux" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=8B7CF6&center=true&vCenter=true&width=520&lines=%24+whoami+%E2%86%92+Julien%2C+aka+Regret;%24+cat+cursus.txt+%E2%86%92+Epitech+PGE+%E2%80%94+Year+1;%24+gcc+-Wall+-Wextra+learning.c;%24+build+%E2%86%92+projets+perso+%2B+IA+copilote" alt="typing"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=regret-py&style=for-the-badge&color=F85D7F&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/regret-py?style=for-the-badge&logo=github&color=8B5CF6&labelColor=0D1117" />
-
 <br/>
 
-<a href="https://regret.info"><img src="https://img.shields.io/badge/Portfolio-regret.info-F85D7F?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0D1117" /></a>
-<img src="https://img.shields.io/badge/Discord-starbadge-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" />
+<a href="https://regret.info"><img src="https://img.shields.io/badge/Portfolio-regret.info-6d5dfc?style=for-the-badge&labelColor=0d1117"/></a>
+<img src="https://img.shields.io/badge/Discord-starbadge-6d5dfc?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Based_in-Paris-6d5dfc?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake placeholder" />
+## `> about`
 
----
+```c
+typedef struct s_dev {
+    char *name;       // "Julien"
+    char *school;     // "Epitech Paris — PGE, 1st year"
+    char *learning;   // "C, Unix, memory management"
+    char *workflow;   // "build fast, AI as copilot"
+} t_dev;
+```
+
+Étudiant en première année à **Epitech**. J'apprends les fondamentaux du **C** et de l'environnement Unix, et je construis beaucoup de projets perso en utilisant l'IA comme copilote — pour prototyper vite et apprendre en faisant.
+
+<br/>
+
+## `> stack`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,linux,bash,git,github,vscode&theme=dark" />
+</p>
+
+<br/>
+
+## `> stats`
 
 <div align="center">
-
-### 🛠️ Stack
-
-<img src="https://skillicons.dev/icons?i=c,py,js,html,css,git,github,linux,bash,vscode,vim&theme=dark&perline=6" />
-
-<sub>À ajuster au fil des projets.</sub>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=regret-py&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b7cf6&icon_color=6d5dfc&text_color=c9d1d9&rank_icon=github&count_private=true"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=regret-py&hide_border=true&background=0d1117&ring=6d5dfc&fire=8b7cf6&currStreakLabel=8b7cf6&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e"/>
 </div>
 
----
+<br/>
 
 <div align="center">
-
-### 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=regret-py&show_icons=true&count_private=true&theme=radical&hide_border=true" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=regret-py&theme=radical&hide_border=true" height="170" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regret-py&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=regret-py&theme=react-dark&hide_border=true&area=true" width="95%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=regret-py&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="95%" />
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=regret-py&bg_color=0d1117&color=8b7cf6&line=6d5dfc&point=e6edf3&area=true&area_color=6d5dfc&hide_border=true&custom_title=Contributions" width="100%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer" width="100%"/>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6d5dfc,50:1f1b3a,100:0d1117&section=footer" width="100%"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
-
-</div>
